@@ -1,1 +1,4 @@
-# loan_pred_data
+# Loan prediction dataset
+
+This is loan prediction dataset released by Analytics Vidhya for data science using python tutorial. 
+
